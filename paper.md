@@ -8,5 +8,3 @@ new addition - modelling example
 
 new addition - simulations section
 edits
-
-describe other instrument
